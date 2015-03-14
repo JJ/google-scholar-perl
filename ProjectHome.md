@@ -1,0 +1,1 @@
+Google::Scholar, a module for scraping Google Scholar web pages
